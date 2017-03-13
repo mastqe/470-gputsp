@@ -1,3 +1,6 @@
 [submodule "tsplib"]
 	path = tsplib
 	url = https://github.com/mastqe/tsplib
+[submodule "LOGO-solver"]
+	path = LOGO-solver
+	url = https://github.com/mastqe/logo-tsp-solver
