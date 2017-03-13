@@ -7,3 +7,6 @@
 [submodule "TSP_GPU"]
 	path = TSP_GPU
 	url = https://gitlab.com/mastqe/TSP_GPU.git/
+[submodule "concorde"]
+	path = concorde
+	url = https://github.com/mastqe/concorde
