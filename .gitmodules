@@ -6,7 +6,7 @@
 	url = git@github.com:mastqe/logo-tsp-solver
 [submodule "TSP_GPU"]
 	path = TSP_GPU
-	url = git@gitlab.com:mastqe/TSP_GPU.git
+	url = git@github.com:mastqe/TSP_GPU.git
 [submodule "concorde"]
 	path = concorde
 	url = git@github.com:mastqe/concorde
