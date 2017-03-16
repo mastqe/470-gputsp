@@ -13,3 +13,6 @@
 [submodule "papers"]
 	path = papers
 	url = git@github.com:mastqe/tsp-papers.git
+[submodule "acotsp"]
+	path = acotsp
+	url = https://github.com/mastqe/acotsp
