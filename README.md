@@ -8,6 +8,10 @@ If not cloned recursively use
     git submodule init
     git submodule update
 
+To pull updated submodules
+
+    git pull --recurse-submodules
+
 ### Build Instructions
 Most submodules have simple make files.
 
