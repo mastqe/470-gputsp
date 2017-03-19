@@ -27,3 +27,4 @@ to run
 ### Problem data
 The tsplib submodule has TSPLIB formatted data sets.
 Optimal solutions are also included there.
+In any sub-folder the opt_tour.sh script can be run and passed a filename (without the .tsp) to return the optimal tour length from the solutions file.

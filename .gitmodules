@@ -16,3 +16,6 @@
 [submodule "acotsp"]
 	path = acotsp
 	url = https://github.com/mastqe/acotsp
+[submodule "old-tsp-final"]
+	path = old-tsp-final
+	url = git@github.com:mastqe/old-tsp-final
