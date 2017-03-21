@@ -10,12 +10,6 @@
 [submodule "concorde"]
 	path = concorde
 	url = https://github.com/mastqe/concorde
-[submodule "papers"]
-	path = papers
-	url = git@github.com:mastqe/tsp-papers.git
 [submodule "acotsp"]
 	path = acotsp
 	url = https://github.com/mastqe/acotsp
-[submodule "old-tsp-final"]
-	path = old-tsp-final
-	url = git@github.com:mastqe/old-tsp-final
