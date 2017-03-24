@@ -1,1 +1,1 @@
-git pull && git submodule update && git pull --recurse-submodules
+git pull && git submodule update --init && git pull --recurse-submodules

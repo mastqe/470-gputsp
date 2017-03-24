@@ -1,16 +1,7 @@
 # 470-gputsp
 JMU CS470 Elective Project - TSP on GPUs
 
-Clone using `git clone --recursive` to get all submodules.
-
-If not cloned recursively use 
-
-    git submodule init
-    git submodule update
-
-To pull updated submodules
-
-    git pull --recurse-submodules
+Use `update.sh` to pull repo + submodules after clone.
 
 ### Build Instructions
 Most submodules have simple make files.
@@ -23,6 +14,20 @@ Concorde:
 to run
 
     ./TSP/concorde
+
+### Submodules
+* LOGO-solver: Main implementation analyzed - 2-opt local search, CPU and GPU
+* TSP_GPU: GPU 2-opt IHC implementations
+* acotsp: Ant Colony Optimization implementation
+* concorde: Concorde Solver - branch and bound serial exact solver
+* tsplib: problem sets
+
+See READMEs for more information.
+
+### Files
+* `update.sh` - do the right pull for submodules
+* `opt_tour.sh` - find the optimal tour for a problem set
+* links - interesting reading material
 
 ### Problem data
 The tsplib submodule has TSPLIB formatted data sets.

@@ -1,6 +1,0 @@
-Not so much performance scaling by limiting the hardware.
-We can look at how the solution quality scales with time and problem size.
-This also shows strengths of the GPU -> bigger problems on the GPU are faster
-
-So we need an array of sizes, then we can see how time scales
-We can also see how solution quality scales when trying to keep a similar time
