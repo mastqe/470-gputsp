@@ -4,9 +4,6 @@
 [submodule "LOGO-solver"]
 	path = LOGO-solver
 	url = https://github.com/mastqe/logo-tsp-solver
-[submodule "TSP_GPU"]
-	path = TSP_GPU
-	url = git@github.com:mastqe/TSP_GPU.git
 [submodule "concorde"]
 	path = concorde
 	url = https://github.com/mastqe/concorde
