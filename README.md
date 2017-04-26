@@ -17,8 +17,7 @@ to run
 
 ### Submodules
 * LOGO-solver: Main implementation analyzed - 2-opt local search, CPU and GPU
-* TSP_GPU: GPU 2-opt IHC implementations
-* acotsp: Ant Colony Optimization implementation
+* acotsp: Ant Colony Optimization implementation - Implemented OpenMP parallel version
 * concorde: Concorde Solver - branch and bound serial exact solver
 * tsplib: problem sets
 
