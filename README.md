@@ -27,6 +27,7 @@ See READMEs for more information.
 * `update.sh` - do the right pull for submodules
 * `opt_tour.sh` - find the optimal tour for a problem set
 * links - interesting reading material
+* Traveling Salesman: Heuristic Scaling Analysis.pdf - final report
 
 ### Problem data
 The tsplib submodule has TSPLIB formatted data sets.
